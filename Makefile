@@ -3,7 +3,7 @@ setup:
 	npm install http
 
 build:
-	echo "nothing to build, this Node, but thank you for thinking of me"
+	echo "Every cloud has a silver linings"
 
 run:
 	node index.js
